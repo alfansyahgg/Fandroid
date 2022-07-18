@@ -1,4 +1,4 @@
-<h2>Alfan Simple Android CRUD (Create , Read , Update , Delete) Data menggunakan API Server.</h2>
+<h2>Simple Android CRUD (Create , Read , Update , Delete) Data menggunakan API Server.</h2>
 Library yang digunakan :<br>
 -Fast Android Networking sebagai Http Request<br>
 -Rengwuxian Material Edit Text<br>
